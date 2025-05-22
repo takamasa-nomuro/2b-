@@ -2,10 +2,10 @@ body{
     background-color: rgb(0, 132, 255);
 }
 h1{
-    color:chartreuse
-    
+    color:chartreuse;
+font-weight: 200;
+font-style: oblique;
 }
-h2{
-color:blueviolet
-
+carros{
+    width:30en
 }
